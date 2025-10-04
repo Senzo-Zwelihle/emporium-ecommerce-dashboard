@@ -10,7 +10,8 @@ The Admin Dashboard provides a complete management system for ecommerce operatio
 
 ## Useful Links
 
-- **Figam**: https://www.figma.com/community/file/1556323763640790574
+- **Figma**: https://www.figma.com/community/file/1556323763640790574
+-  **Deployment**: https://emporium-ecommerce-dashboard.vercel.app
 
 ## Tech Stack
 
