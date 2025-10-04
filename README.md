@@ -8,6 +8,10 @@ A comprehensive administrative interface for managing the Emporium Ecommerce eco
 
 The Admin Dashboard provides a complete management system for ecommerce operations, featuring intuitive interfaces for product management, order processing, user administration, and business analytics. Designed for administrators, store managers, and content creators.
 
+## Useful Links
+
+- **Figam**: https://www.figma.com/community/file/1556323763640790574
+
 ## Tech Stack
 
 - **Framework**: Next.js 15 (App Router with Turbopack)
